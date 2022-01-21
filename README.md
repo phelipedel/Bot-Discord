@@ -1,6 +1,6 @@
 # Bot para Discord 
 
-Bot para discord feito por min com funcoes interessantes de manipulacao de cores nas mensagens e musica para seu servidor.
+Bot para discord feito por min com funções interessantes de manipulacao de cores nas mensagens e musica para seu servidor.
 
 ## Função 
 - Musicas.
